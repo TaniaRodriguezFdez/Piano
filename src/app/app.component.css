@@ -1,0 +1,19 @@
+body{
+   margin: 0;
+   padding: 0;
+   background-color: cornflowerblue;
+}
+.list-group-item{
+    cursor: pointer;
+    height: 60px;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+a:active{
+    height: 62px;
+    
+}
